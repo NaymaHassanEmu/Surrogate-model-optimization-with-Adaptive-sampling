@@ -1,0 +1,13 @@
+LOAD 0rig_NACA0012.dat
+0rig_NACA0012
+PANE
+OPER
+Visc 1000000
+PACC
+polar_file.txt
+
+ITER 20
+Alfa 5
+
+
+quit
